@@ -1,2 +1,2 @@
 # Game
-joe
+Members: Christian, Luke, Aaron, Jacob
