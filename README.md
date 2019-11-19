@@ -7,3 +7,6 @@ Youtuber: https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g
 
 
 first person tutorial - https://www.youtube.com/watch?v=_QajrabyTJc
+
+
+weapon textures - https://www.youtube.com/watch?v=i8snJIbdVCg
