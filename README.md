@@ -10,3 +10,6 @@ first person tutorial - https://www.youtube.com/watch?v=_QajrabyTJc
 
 
 weapon textures - https://www.youtube.com/watch?v=i8snJIbdVCg
+
+
+Weapon Assets - http://devassets.com/assets/western-props-pack/
