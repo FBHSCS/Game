@@ -6,10 +6,18 @@ Tutorials: https://learn.unity.com/
 Youtuber: https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g
 
 
-first person tutorial - https://www.youtube.com/watch?v=_QajrabyTJc
+First Person Tutorial - https://www.youtube.com/watch?v=_QajrabyTJc
 
 
-weapon textures - https://www.youtube.com/watch?v=i8snJIbdVCg
+Weapon Textures - https://www.youtube.com/watch?v=i8snJIbdVCg
 
 
 Weapon Assets - http://devassets.com/assets/western-props-pack/
+
+Fps 3D Game
+
+Steps
+1. Target Practice
+        - Import models to use
+        - Get model to shoot
+        - Get bullets to destroy things
